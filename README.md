@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin Diagnostic — PCA and Model Comparison
+# Breast Cancer Wisconsin Diagnostic , PCA and Model Comparison
 
 Data Mining and Machine Learning course assignment.
 
